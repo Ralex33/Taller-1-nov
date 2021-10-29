@@ -1,0 +1,2 @@
+calificativo=input("Ingrese el
+print("Alexandra la",calificativo)
